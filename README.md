@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 16/3/26
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -44,11 +44,15 @@
 ## Heat Treatment of 3D printed part
 ![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
-
 ## Output:
+<img width="1912" height="847" alt="Screenshot 2026-03-13 091004" src="https://github.com/user-attachments/assets/ab4f374b-295d-4168-9e9c-d043d13929a2" />
 
-### Name:
-### Register Number:
+<img width="1904" height="845" alt="Screenshot 2026-03-13 091027" src="https://github.com/user-attachments/assets/2f7da259-a0dc-4175-9a5b-14e334d2b977" />
+
+<img width="1909" height="843" alt="Screenshot 2026-03-13 091046" src="https://github.com/user-attachments/assets/cb8244c9-4d8e-4e51-9db0-395a095ed4d8" />
+
+### Name: M . Darshika
+### Register Number: 212225220020
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
